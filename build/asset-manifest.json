@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rogonra/referencia.git/static/css/main.a840632d.css",
+    "main.js": "/rogonra/referencia.git/static/js/main.63b88042.js",
+    "static/js/787.665d0394.chunk.js": "/rogonra/referencia.git/static/js/787.665d0394.chunk.js",
+    "static/media/fideo.jpg": "/rogonra/referencia.git/static/media/fideo.e711e338d705f2ceb7e8.jpg",
+    "index.html": "/rogonra/referencia.git/index.html",
+    "main.a840632d.css.map": "/rogonra/referencia.git/static/css/main.a840632d.css.map",
+    "main.63b88042.js.map": "/rogonra/referencia.git/static/js/main.63b88042.js.map",
+    "787.665d0394.chunk.js.map": "/rogonra/referencia.git/static/js/787.665d0394.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a840632d.css",
+    "static/js/main.63b88042.js"
+  ]
+}
